@@ -1,0 +1,20 @@
+.container{
+    border: 1px solid grey;
+    background-color: aquamarine;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+.box2{
+    border: 1px solid grey;
+    background-color:blueviolet;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    right: 50px;
+    bottom: 50px;
+}

@@ -1,0 +1,41 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+h1 {
+    font-weight: bold;
+    color: rgb(75, 32, 230);
+    text-decoration: underline;
+}
+
+.book-image {
+    width: 250px;
+    margin: 15px 0;
+}
+
+.price {
+    font-size: 18px;
+}
+
+.price span {
+    color: red;
+    font-size: 25px;
+}
+
+.buy-button {
+    position: relative;
+    display: inline-block;
+    background-color: rgb(255, 111, 0);
+    color: white;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.buy-button:hover {
+    background-color: darkorange;
+}

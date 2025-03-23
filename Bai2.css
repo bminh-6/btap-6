@@ -1,0 +1,47 @@
+.container{
+    text-align: center;
+    line-height: 50px;
+}
+.logo{
+    background-color: aquamarine;
+    float: left;
+    width: 200px;
+    height: 50px;;
+}
+.banner{
+    background-color: aqua;
+    width: 600px;
+    height: 50px;
+}
+.head-link{
+    background-color: blue;
+    width: 600px;
+    clear: both;
+}
+.left{
+    background-color: antiquewhite;
+    float:left;
+    width: 100px;
+    height: 200px;
+    line-height: 200px;
+}
+.content{
+    background-color: aliceblue;
+    float:left;
+    width: 400px;
+    height: 200px;
+    line-height: 200px;
+}
+.right{
+    background-color: bisque;
+    width: 100px;
+    height: 200px;
+    float:left;
+    line-height: 200px;
+}
+.footer{
+    background-color: brown;
+    clear:both;
+    width: 600px;
+    height: 50px;
+}
